@@ -1,8 +1,8 @@
 # EcoRuta Temuco
 
-## Integrantes y roles (Sprint actual)
+## Integrantes y roles
 
-| Nombre | Rol ágil |
+| Nombre | Rol ágil sprint 0 |
 |---|---|
 | Matias Espinoza | Scrum Master |
 | Annan John | Developer |
@@ -10,9 +10,33 @@
 | Catalina Ojeda | QA/Tester |
 | Miguel Torres | Developer |
 
+| Nombre | Rol ágil sprint 1 (actual) |
+|---|---|
+| Matias Espinoza | Scrum Master |
+| Annan John | Developer |
+| Tomas Mardones | Product Owner |
+| Catalina Ojeda | QA/Tester |
+| Miguel Torres | Developer |
+
+| Nombre | Rol ágil sprint 2 |
+|---|---|
+| Matias Espinoza | Product Owner |
+| Annan John | Scrum Master |
+| Tomas Mardones | Developer |
+| Catalina Ojeda | QA/Tester |
+| Miguel Torres | Developer |
+
+| Nombre | Rol ágil sprint 3 |
+|---|---|
+| Matias Espinoza | Developer |
+| Annan John | Developer |
+| Tomas Mardones | QA/Tester |
+| Catalina Ojeda | Product Owner |
+| Miguel Torres | Scrum Master |
+
 ## Descripción breve
 
-> Ecoruta Temuco, es un servicio de turismo basado en la region de la Araucanía, principalmente en la naturaleza de la region.
+> Ecoruta Temuco es un servicio de turismo basado en la región de la Araucanía, principalmente en la naturaleza de la region.
 
 ## Tecnologías utilizadas
 
@@ -33,8 +57,8 @@ npm run dev
 
 ## Estado del proyecto
 
-- Sprint actual: Sprint 0 (Kickoff)
-- Última actualización: (fecha)
+- Sprint actual: Sprint 1
+- Última actualización: (27/08)
 
 ## Tablero Kanban
 
